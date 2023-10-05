@@ -1,8 +1,8 @@
 version: 2023-09
-givenName: Alice
-familyName: Cryptography
+givenName: Sebastjan
+familyName: Pirih
 profilePhotoPath: img/profile.jpg
-bio: My super bio!
-address: Wonderland
+bio: Communications & Business developer
+address: Ljubljana, Slovenia
 projects:
-  - https://github.com/alenhorvat/git-recognise
+  - https://github.com/skillJot/git-recognise
